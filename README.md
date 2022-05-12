@@ -1,5 +1,5 @@
 # REACT-DATA-APP
-a simple webapp for a data/ internet service provision company
+a webapp for a data/ internet service provision company
 
 # Getting started 
 install the zip file and re-arrange the folders with src file being inside the public folder.
